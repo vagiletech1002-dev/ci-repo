@@ -1,1 +1,1 @@
-tetsing jenkins trigger remotely
+testing jenkins trigger remotely
